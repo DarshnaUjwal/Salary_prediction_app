@@ -17,7 +17,7 @@ An interactive and intelligent web application to **predict salaries** for profe
 
 ## 🧠 Problem Statement
 
-> Help professionals and job-seekers make better career decisions by accurately predicting their expected salary using machine learning and visual analytics, based on multiple real-world job attributes.
+Help professionals and job-seekers make better career decisions by accurately predicting their expected salary using machine learning and visual analytics, based on multiple real-world job attributes.
 
 ---
 
@@ -88,15 +88,18 @@ The GUI is developed using `Streamlit`. Users can:
 
    Clone the project to your local machine using:
 
-   ```bash
    git clone https://github.com/your-username/salary-prediction-app.git
    cd salary-prediction-app
 
 2. **Install required dependencies**
+   
   Make sure you have Python installed (preferably Python 3.9+), then install the necessary libraries:
+  
   pip install streamlit pandas numpy scikit-learn
 
 3. **Run the Streamlit Application**
+   
   Launch the app using:
+  
   streamlit run app.py
 
